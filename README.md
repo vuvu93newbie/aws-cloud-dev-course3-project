@@ -22,3 +22,6 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+I have changed from Jimp to Axios due to this error "Could not find MIME for Buffer <null>"
+As this suggestion: https://github.com/jimp-dev/jimp/issues/775
